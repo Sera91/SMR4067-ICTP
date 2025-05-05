@@ -111,4 +111,7 @@ Nuria Perez Zanon: a08trb54
 
 Ioana Colfescu: a08trb55
 
+Simon Hentschel: a08trb56
+
+Matias Olmo: a08trb57
 
