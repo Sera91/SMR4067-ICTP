@@ -15,7 +15,7 @@ BOKHARI Syed Ahsan Ali:  a08trb06
 
 CASTILLO LINAN Salvador:  a08trb07
 
-CHAND Ram:  a08trb08
+Grande Davide:  a08trb08
 
 CHOWDHURY Rituparna:  a08trb09
 
