@@ -129,4 +129,16 @@ Raneem Faisal Alghamdi: a08trb64
 
 Anna Hose: a08trb65
 
+Mattia Di Paoli: a08trb66
 
+Renata Tedeschi: a08trb67
+
+Enzo Pinheiro: a08trb68
+
+Alexandra Kovacevic: a08trb69
+
+Patrik Juresa: a08trb70
+
+Niccolo Landi: a08trb71
+
+Raneem Faisal : a08trb72
