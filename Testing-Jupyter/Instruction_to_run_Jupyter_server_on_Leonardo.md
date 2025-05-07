@@ -2,7 +2,7 @@
 
 Once you login to Leonardo and you cloned the Github repo in the Scratch area (following instructions in the file First_instructions.md), you can go into Day0 folder in the Github repo using the command:
 
-$ cd $SCRATCH/SMR3941-ICTP/Day0
+$ cd $SCRATCH/SMR4067-ICTP/Testing-Jupyter
 
 run the script to setup the conda envinronment and Jupyter configuration:
 
