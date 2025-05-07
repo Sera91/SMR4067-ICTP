@@ -33,7 +33,7 @@ Hydayanto Nurdeka:  a08trb15
 
 HOYOS RINCON Isabel Cristina:  a08trb16
 
-JHA Ritesh:  a08trb17
+WANG  Yanjia:  a08trb17
 
 Eugenia Garbarini:  a08trb18
 
