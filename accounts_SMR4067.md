@@ -25,7 +25,7 @@ Alfonso Fernandez:  a08trb11
 
 Davide Sabatani:  a08trb12 
 
-Rezky Yunita:  a08trb13
+Yunita Rezky:  a08trb13
 
 Han Wang:  a08trb14
 
@@ -101,7 +101,7 @@ Bety Pechacova: a08trb49
 
 Julia Weronica Hetmanek: a08trb50
 
-Joshua Miller a08trb51
+Joshua Miller: a08trb51
 
 Enrico Maiero: a08trb52
 
