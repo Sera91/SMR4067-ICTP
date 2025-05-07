@@ -19,17 +19,17 @@ Grande Davide:  a08trb08
 
 CHOWDHURY Rituparna:  a08trb09
 
-DAHER Houraa Mohamed:  a08trb10
+Lorenza Lucaferri:  a08trb10
 
-DEV Tiasha:  a08trb11
+Alfonso Fernandez:  a08trb11
 
-DUTTA Dipanwita:  a08trb12 
+Davide Sabatani:  a08trb12 
 
-FIRMANSYAH:  a08trb13
+Rezky Yunita:  a08trb13
 
-GHOSHAL Prasanna Kanti:  a08trb14
+Han Wang:  a08trb14
 
-HIDAYANTO Nurdeka:  a08trb15
+Mathiew Rahynski:  a08trb15
 
 HOYOS RINCON Isabel Cristina:  a08trb16
 
