@@ -1,5 +1,5 @@
 #!/bin/bash -l
-#SBATCH -A tra24_ictp_ml
+#SBATCH -A tra25_ictp_ai
 #SBATCH -p boost_usr_prod
 #SBATCH --time 1:15:00       # format: HH:MM:SS
 #SBATCH -N 1
