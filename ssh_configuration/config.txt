@@ -1,0 +1,10 @@
+Host leonard
+   HostName login02-ext.leonardo.cineca.it
+   IdentityFile /home/serafina/.ssh/leo_key
+   StrictHostKeyChecking no
+   UserKnownHostsFile /dev/null
+   LogLevel ERROR
+   User username
+   ForwardX11 yes
+   ForwardX11Trusted yes
+
