@@ -26,3 +26,10 @@ jupyter notebook --generate-config
 
 jupyter notebook password
 
+#Step 3: print the port associated 
+portval=88$(whoami | cut -b 7-9)
+
+echo $portval
+
+jupyter notebook --NotebookApp.port=$portval
+
